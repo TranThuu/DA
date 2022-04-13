@@ -1,0 +1,15 @@
+D:\DATN\Program\FlarumWebApp\FlarumWebApp.Core\bin\Debug\net5.0\FlarumWebApp.Core.deps.json
+D:\DATN\Program\FlarumWebApp\FlarumWebApp.Core\bin\Debug\net5.0\FlarumWebApp.Core.runtimeconfig.json
+D:\DATN\Program\FlarumWebApp\FlarumWebApp.Core\bin\Debug\net5.0\FlarumWebApp.Core.runtimeconfig.dev.json
+D:\DATN\Program\FlarumWebApp\FlarumWebApp.Core\bin\Debug\net5.0\FlarumWebApp.Core.dll
+D:\DATN\Program\FlarumWebApp\FlarumWebApp.Core\bin\Debug\net5.0\FlarumWebApp.Core.pdb
+D:\DATN\Program\FlarumWebApp\FlarumWebApp.Core\obj\Debug\net5.0\FlarumWebApp.Core.csproj.AssemblyReference.cache
+D:\DATN\Program\FlarumWebApp\FlarumWebApp.Core\obj\Debug\net5.0\FlarumWebApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATN\Program\FlarumWebApp\FlarumWebApp.Core\obj\Debug\net5.0\FlarumWebApp.Core.AssemblyInfoInputs.cache
+D:\DATN\Program\FlarumWebApp\FlarumWebApp.Core\obj\Debug\net5.0\FlarumWebApp.Core.AssemblyInfo.cs
+D:\DATN\Program\FlarumWebApp\FlarumWebApp.Core\obj\Debug\net5.0\FlarumWebApp.Core.csproj.CoreCompileInputs.cache
+D:\DATN\Program\FlarumWebApp\FlarumWebApp.Core\obj\Debug\net5.0\FlarumWebApp.Core.dll
+D:\DATN\Program\FlarumWebApp\FlarumWebApp.Core\obj\Debug\net5.0\refint\FlarumWebApp.Core.dll
+D:\DATN\Program\FlarumWebApp\FlarumWebApp.Core\obj\Debug\net5.0\FlarumWebApp.Core.pdb
+D:\DATN\Program\FlarumWebApp\FlarumWebApp.Core\obj\Debug\net5.0\FlarumWebApp.Core.genruntimeconfig.cache
+D:\DATN\Program\FlarumWebApp\FlarumWebApp.Core\obj\Debug\net5.0\ref\FlarumWebApp.Core.dll

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FlarumWebApp.Common\FlarumWebApp.Common.csproj" />
+    <ProjectReference Include="..\FlarumWebApp.Repository\FlarumWebApp.Repository.csproj" />
+    <ProjectReference Include="..\FlarumWebApp.ViewModels\FlarumWebApp.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>

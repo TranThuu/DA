@@ -1,0 +1,12 @@
+D:\DATN\Program\FlarumWebApp\FlarumWebApp.ViewModels\bin\Debug\net5.0\FlarumWebApp.ViewModels.deps.json
+D:\DATN\Program\FlarumWebApp\FlarumWebApp.ViewModels\bin\Debug\net5.0\FlarumWebApp.ViewModels.dll
+D:\DATN\Program\FlarumWebApp\FlarumWebApp.ViewModels\bin\Debug\net5.0\FlarumWebApp.ViewModels.pdb
+D:\DATN\Program\FlarumWebApp\FlarumWebApp.ViewModels\obj\Debug\net5.0\FlarumWebApp.ViewModels.csproj.AssemblyReference.cache
+D:\DATN\Program\FlarumWebApp\FlarumWebApp.ViewModels\obj\Debug\net5.0\FlarumWebApp.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATN\Program\FlarumWebApp\FlarumWebApp.ViewModels\obj\Debug\net5.0\FlarumWebApp.ViewModels.AssemblyInfoInputs.cache
+D:\DATN\Program\FlarumWebApp\FlarumWebApp.ViewModels\obj\Debug\net5.0\FlarumWebApp.ViewModels.AssemblyInfo.cs
+D:\DATN\Program\FlarumWebApp\FlarumWebApp.ViewModels\obj\Debug\net5.0\FlarumWebApp.ViewModels.csproj.CoreCompileInputs.cache
+D:\DATN\Program\FlarumWebApp\FlarumWebApp.ViewModels\obj\Debug\net5.0\FlarumWebApp.ViewModels.dll
+D:\DATN\Program\FlarumWebApp\FlarumWebApp.ViewModels\obj\Debug\net5.0\refint\FlarumWebApp.ViewModels.dll
+D:\DATN\Program\FlarumWebApp\FlarumWebApp.ViewModels\obj\Debug\net5.0\FlarumWebApp.ViewModels.pdb
+D:\DATN\Program\FlarumWebApp\FlarumWebApp.ViewModels\obj\Debug\net5.0\ref\FlarumWebApp.ViewModels.dll

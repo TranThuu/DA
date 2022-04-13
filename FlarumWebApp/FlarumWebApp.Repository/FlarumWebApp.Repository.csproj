@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FlarumWebApp.Common\FlarumWebApp.Common.csproj" />
+    <ProjectReference Include="..\FlarumWebApp.Core\FlarumWebApp.Core.csproj" />
+    <ProjectReference Include="..\FlarumWebApp.ViewModels\FlarumWebApp.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>
